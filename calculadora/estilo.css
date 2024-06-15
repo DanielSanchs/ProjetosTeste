@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(93, 6, 173);
+}
+h1{
+    color: yellow;
+    text-align: center;
+}
+button{
+    background-color: rgb(100, 98, 98);
+}
+input{
+    background-color: rgb(154, 255, 154);  
+}
+p{
+    text-align: center;
+}
+#botoes, #inputs{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+
